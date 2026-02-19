@@ -1,6 +1,6 @@
 ### Hi, I'm Alex 👋
 
-I lead iOS engineering at [Starling Bank](https://www.starlingbank.com/)
+I lead iOS engineering at [Starling](https://www.starlingbank.com/)
 
 Based in London 🇬🇧
 
