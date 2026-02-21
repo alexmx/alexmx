@@ -1,6 +1,6 @@
 
 <p>
-<img width="110" alt="good boy" src="https://github.com/user-attachments/assets/7803f7f4-c8ce-4f0f-8c18-26a6a53c7a27" />
+<img width="90" alt="good boy" src="https://github.com/user-attachments/assets/7803f7f4-c8ce-4f0f-8c18-26a6a53c7a27" />
 <p/>
 
 ### Hi, I'm Alex 👋
