@@ -13,6 +13,7 @@ You can DM me on [𝕏](https://x.com/amaimescu) · [in](https://www.linkedin.co
 
 ### Projects
 
+* [**codechat**](https://github.com/alexmx/codechat) - Human-in-the-loop code review for AI agents.
 * [**xc**](https://github.com/alexmx/xc) - A better way to run xcodebuild. Stop typing flags. Start shipping.
 * [**peek**](https://github.com/alexmx/peek) - Let your AI agent see and control any Mac or iOS Simulator app.
 * [**slog**](https://github.com/alexmx/slog) - Let your AI agent tap into macOS and iOS Simulator logs.
