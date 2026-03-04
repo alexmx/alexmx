@@ -13,6 +13,7 @@ You can DM me on [𝕏](https://x.com/amaimescu) · [in](https://www.linkedin.co
 
 ### Projects
 
+* [**skillman**](https://github.com/alexmx/skillman) - A package manager for AI agent skills.
 * [**codechat**](https://github.com/alexmx/codechat) - Human-in-the-loop code review for AI agents.
 * [**xc**](https://github.com/alexmx/xc) - A better way to run xcodebuild. Stop typing flags. Start shipping.
 * [**peek**](https://github.com/alexmx/peek) - Let your AI agent see and control any Mac or iOS Simulator app.
