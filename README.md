@@ -18,7 +18,7 @@ You can DM me on [𝕏](https://x.com/amaimescu) · [in](https://www.linkedin.co
 
 <br/>
 <p>
-<img width="80" alt="good boy" src="https://github.com/user-attachments/assets/7803f7f4-c8ce-4f0f-8c18-26a6a53c7a27" />
+<img width="70" alt="good boy" src="https://github.com/user-attachments/assets/7803f7f4-c8ce-4f0f-8c18-26a6a53c7a27" />
 </p>
 
 > Don’t worry, he’s a good boy. Just on watch to keep the build green.
