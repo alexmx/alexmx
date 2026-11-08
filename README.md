@@ -7,6 +7,8 @@ Based in London 🇬🇧
 You can DM me on [𝕏](https://x.com/amaimescu) · [in](https://www.linkedin.com/in/amaimescu/)
 
 ### Projects
+* [**pls**](https://github.com/alexmx/pls) - Run your own scripts by asking in plain words. Private, on-device.
+* [**pls-automations**](https://github.com/alexmx/pls-automations) - Ready-made automations for pls: Mac settings, files, network, apps and developer chores.
 * [**xc**](https://github.com/alexmx/xc) - The task runner for Xcode projects. Stop typing flags. Start shipping.
 * [**peek**](https://github.com/alexmx/peek) - See and drive any Mac app from your terminal or your AI agent.
 * [**llmdb**](https://github.com/alexmx/llmdb) - Debug any Mac or iOS Simulator app from your terminal or your AI agent.
